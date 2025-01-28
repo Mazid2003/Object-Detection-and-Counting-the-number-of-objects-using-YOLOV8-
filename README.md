@@ -1,1 +1,24 @@
-It is a pre trained object detection method using YOLOV8.In this project we are going to detect the objects and also displays the count of the objects. The output displays through your webcam. It is suitable only for some classes(i.e which are mentioned in the source code "classNames").
+**🎯 Real-Time Object Detection with YOLOv8**
+
+A pre-trained object detection system using YOLOv8 that detects and counts objects in real-time through a webcam. The model is configured to identify specific object classes defined in the source code (classNames).
+
+**✨ Features:**
+
+Real-Time Object Detection using YOLOv8
+
+Object Counting for detected classes
+
+Webcam Integration for live detection
+
+Optimized for Specific Classes (as defined in classNames)
+
+**🔧 Tech Stack:**
+
+**Model**: YOLOv8 (Pre-trained)
+
+**Framework:** Python, OpenCV, Ultralytics YOLO
+
+**Hardware:** Works with any webcam
+
+🚀 This project provides an efficient way to detect and count objects in real-time!
+
