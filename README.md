@@ -1,4 +1,4 @@
-**🎯 Real-Time Object Detection with YOLOv8**
+# 🎯 Real-Time Object Detection with YOLOv8
 
 A pre-trained object detection system using YOLOv8 that detects and counts objects in real-time through a webcam. The model is configured to identify specific object classes defined in the source code (classNames).
 
