@@ -22,3 +22,8 @@ Optimized for Specific Classes (as defined in classNames)
 
 🚀 This project provides an efficient way to detect and count objects in real-time!
 
+📜 License
+
+This project is open-source under the MIT License. Feel free to use and
+modify it! 🚀
+
